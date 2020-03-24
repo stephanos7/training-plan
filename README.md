@@ -1,4 +1,4 @@
-# Training Plan for first hald of 2020 :muscle:
+# Training Plan for first half of 2020 :muscle:
 
 I am aiming to become a strong Technical Product Owner and Product Manager within the next two years. To grow in both roles, I need to first build on my strengths and then devise a structured learning plan to up-skill on areas I'm lacking expertise (categorised as *“Needs Improvement”* below). From experience and after asking senior POs/PMs, I have concluded that to excel in these roles I need to focus on the following areas: 
 
