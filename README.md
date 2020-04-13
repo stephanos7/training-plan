@@ -4,15 +4,15 @@ I am aiming to become a strong Technical Product Owner and Product Manager withi
 
 ## A) Technical Product Owner Skills
 
-1. Agile Methodologies **[*Strength*]** 🆙 RECENTLY IMPROVED WITH BELOW ACTIONS
+1. Agile Methodologies **[*Strength*]** 🆙 RECENTLY IMPROVED 
 2. Quality Assurance
-3. Scaling product development **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED WITH BELOW ACTIONS
+3. Scaling product development **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED 
 4. Continuous Integration / Continuous Delivery **[*Needs Improvement*]**
 5. Technical architecture & hands-on engineering
 
 ## B) Product Manager Skills
 
-1. Product strategy & pricing **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED WITH BELOW ACTIONS
+1. Product strategy & pricing **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED
 2. Release management
 3. User-centric prod-dev approach - Maintaining feedback loops with customers/users 
 4. Data-centric prod-development - Capturing insights from data **[*Needs Improvement*]** 🔸IMPROVING
