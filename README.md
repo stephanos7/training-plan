@@ -39,7 +39,8 @@ Up-skilling for a Technical Product Owner role:
 
 2. :facepunch:  **Long term “Strength goal - Agile Methodologies:** Having gained additional hands-on work experience during the year, I will attempt the PSPO III certification by December (only 288 people have passed).
 
-3. :facepunch:  **Immediate term “Needs Improvement goal” - Scaling Product Development:** Gain more hands-on experience with product development in scaled, enterprise environments. I have ~7 months of previous experience working as a Scrum Master in an enterprise-level scaled agile division (banking). The role was very challenging and I was called to support POs to consolidate roadmaps into the bank’s global roadmap. While I’ve learned and grown a lot after this assignment, I am now aiming to gain even more experience in a scaled-up setting as PO/PM. 
+3. :facepunch:  ~~**Immediate term goal - Scaling Product Development:**~~ Gain more hands-on experience with product development in scaled, enterprise environments. I have ~7 months of previous experience working as a Scrum Master in an enterprise-level scaled agile division (banking). The role was very challenging and I was called to support POs to consolidate roadmaps into the bank’s global roadmap. While I’ve learned and grown a lot after this assignment, I am now aiming to gain even more experience in a scaled-up setting as PO/PM. 
+✅ 
 
 4. :facepunch:  ~~**Medium-term “Needs Improvement goal” - Scaling Product Development:**~~ Depending on the setting of my day job, I will aim to learn and gain certification on the NEXUS scaled Scrum framework within 3 months (by end of June).
 ✅ **Became certified in Scaled Professional Scrum with the NEXUS framework on the 1st April**
