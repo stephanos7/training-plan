@@ -5,8 +5,8 @@ I am aiming to become a strong Technical Product Owner and Product Manager withi
 ## A) Technical Product Owner Skills
 
 1. Agile Methodologies **[*Strength*]** 🆙 RECENTLY IMPROVED 
-2. Quality Assurance
-3. Scaling product development **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED 
+2. Technical Quality Assurance
+3. Scaling product development 🆙 RECENTLY IMPROVED 
 4. Continuous Integration / Continuous Delivery **[*Needs Improvement*]**
 5. Technical architecture & hands-on engineering
 
@@ -14,8 +14,8 @@ I am aiming to become a strong Technical Product Owner and Product Manager withi
 
 1. Product strategy & pricing **[*Needs Improvement*]** 🆙 RECENTLY IMPROVED
 2. Release management
-3. User-centric prod-dev approach - Maintaining feedback loops with customers/users 
-4. Data-centric prod-development - Capturing insights from data **[*Needs Improvement*]** 🔸IMPROVING
+3. User-centric prod-dev approach - Maintaining feedback loops with customers/users 🆙 RECENTLY IMPROVED
+4. Data-centric prod-development - Capturing insights from data 🆙 RECENTLY IMPROVED
 
 
 ## C) Cross-role skills
@@ -46,13 +46,13 @@ Up-skilling for a Technical Product Owner role:
 
 5. :facepunch:  **Immediate term “Needs Improvement goal” - Continuous Integration (CI):** Learn and practice trunk-based development from https://trunkbaseddevelopment.com. While I’ve used TBD on a previous RN project, I don’t feel confident I deeply understand it’s benefits. I will read a chapter a day and practise from the 2nd of April.
 
-6. :facepunch:  **Immediate term “Needs Improvement goal” - Continuous Development (CD) combined with building on a strength (Azure Cloud):** While I’ve used certain tooling before (Jenkins) and have coordinated release management meeting, I want to to understand the essence of CD while having a more technical awareness of the tooling and pipeline setups. I will take the course Continuous Delivery & DevOps with Azure to additionally build on my knowledge of Azure DevOps. I will spend 30mins on the course every other day starting from the 27th of April. 
+6. :facepunch:   ~~**Immediate term “Needs Improvement goal” - Continuous Development (CD) combined with building on a strength (Azure Cloud):**~~ While I’ve used certain tooling before (Jenkins) and have coordinated release management meetings, I want to to understand the essence of CD while having a more technical awareness of the tooling and pipeline setups. I will take the course Continuous Delivery & DevOps with Azure to additionally build on my knowledge of Azure DevOps. I will spend 30mins on the course every other day starting from the 27th of April. 
 
 
 Up-skilling for a Product Manager role:
 
-1. :facepunch:  **Medium-term “Needs Improvement goal” - AB Testing and data-centric approach to product dev:** While I am confident I have developed a user-centric intution (also because of my background in architecture & UX) I significantly lack practical experience in taking data-driven product decisions. To address this, I will complete the course on Data Wrangling, Analysis & AB Testing from UCDavis within 6 weeks, spending 2 hours every week.
-🔸**Started - In progress**
+1. :facepunch:   ~~**Medium-term “Needs Improvement goal” - AB Testing and data-centric approach to product dev:**~~ While I am confident I have developed a user-centric intution (also because of my background in architecture & UX) I significantly lack practical experience in taking data-driven product decisions. To address this, I will complete the course on Data Wrangling, Analysis & AB Testing from UCDavis within 6 weeks, spending 2 hours every week.
+✅ Complete
 
 2. :facepunch:  **Immediate term “Needs Improvement goal” - Product Strategy & Pricing:** While I’ve had the good fortune to work with colleagues who specialise in this area, I want to excel in every aspect of Product Dev/Management and pricing is a particularly important one. I have already started the course on Cost & Economics in Pricing Strategy from the University of Virginia & Boston Consulting Group. I will complete it in four weeks.
-🔸**In progress - 90% Complete, must take final exam and case-study by 4th May**
+✅ Complete
